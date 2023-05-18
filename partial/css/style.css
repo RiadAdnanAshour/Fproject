@@ -185,3 +185,76 @@ form {
     margin-right: 10px;
   }
   /* End Header */
+
+
+  footer {
+    background-color: white;
+    padding: 40px;
+    text-align: center;
+    font-size: 14px;
+    color: #2196f3;
+   
+  }
+
+/* start managerUser */
+h3 {
+  font-size: 24px;
+  color: #333;
+  margin-bottom: 20px;
+  border-bottom: 2px solid #ccc;
+  padding-bottom: 10px;
+  text-align: center;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  padding: 8px;
+  text-align: left;
+}
+
+th {
+  background-color: #f2f2f2;
+}
+
+tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+a.btn {
+  display: inline-block;
+  padding: 6px 12px;
+  margin-bottom: 0;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 1.42857143;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  cursor: pointer;
+  user-select: none;
+  border: 1px solid transparent;
+  border-radius: 4px;
+}
+
+a.btn-primary {
+  color: #fff;
+  background-color: #007bff;
+  border-color: #007bff;
+}
+
+a.btn-primary:hover {
+  background-color: #0069d9;
+  border-color: #0062cc;
+}
+/* end managerUser */
+
+
+h2{
+  text-align: center;
+  
+}
